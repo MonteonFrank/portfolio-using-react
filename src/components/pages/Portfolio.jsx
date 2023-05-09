@@ -79,7 +79,7 @@
         title: "Dynamic Quiz",
         description: "A dynamic quiz using only Javascript and using DOM elements",
         image: DynamicQuizImage,
-        link: "https://monteonfrank.github.io/Module-3-Password-Generator/",
+        link: "https://monteonfrank.github.io/Test-your-knowledge-on-Basic-JavaScript---Bootcamp-Challente-4/",
         github: "https://github.com/MonteonFrank/Test-your-knowledge-on-Basic-JavaScript---Bootcamp-Challente-4",
       },      
       {
