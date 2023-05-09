@@ -26,13 +26,14 @@
 
  <p>During this challenge I learned more about React and its advantages. I have to admit that I struggled with the useState method and actually used several pieces of code viewed in class, such as the creation of the NavBar.t.</p>
 
-<h2><strong>Link to deployed application</strong></h2>
+<h2><strong>Link to deployed application and images</strong></h2>
 
 <p>Link to the deployed application: </p>
 
  https://monteonfrank.github.io/portfolio-using-react/#About 
  
- <p>Images></p>
+ 
+ 
  
  <p>About Me</p>
  
@@ -49,6 +50,7 @@
 
 
 <p>Portfolio</p>
+
 ![image](https://github.com/MonteonFrank/portfolio-using-react/assets/112662397/b6f8efb7-d681-4f21-a289-9b0c08e4354e)
 
 
