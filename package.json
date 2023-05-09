@@ -35,7 +35,8 @@
     "jest": "^29.0.3",
     "jest-environment-jsdom": "^29.0.3",
     "react-scripts": "5.0.1",
-    "vite": "^4.3.2",
+    "vite": "^4.3.5",
     "whatwg-fetch": "^3.6.2"
-  }
+  },
+  "homepage": "https://monteonfrank.github.io"
 }
