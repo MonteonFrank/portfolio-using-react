@@ -1,4 +1,5 @@
-#Portfolio using React
+
+<h2><strong>Portfolio using React</strong></h2>
 
 
 <h2><strong>Description</strong></h2>
@@ -22,7 +23,37 @@
 
 <h2><strong>What did I learn?</strong></h2>
 
+
  <p>During this challenge I learned more about React and its advantages. I have to admit that I struggled with the useState method and actually used several pieces of code viewed in class, such as the creation of the NavBar.t.</p>
 
-<h2><strong>Link to deployed application</strong></h2>
+<h2><strong>Link to deployed application and images</strong></h2>
+
+<p>Link to the deployed application: </p>
+
+ https://monteonfrank.github.io/portfolio-using-react/#About 
+ 
+ 
+ 
+ 
+ <p>About Me</p>
+ 
+ ![image](https://github.com/MonteonFrank/portfolio-using-react/assets/112662397/c42cac6a-a72a-498b-8deb-e9a06befc02b)
+
+
+<p>Resume</p>
+
+![image](https://github.com/MonteonFrank/portfolio-using-react/assets/112662397/b0f151d7-d2dd-4239-8d3a-7a98636d7c65)
+
+<p>Contact</p>
+
+![image](https://github.com/MonteonFrank/portfolio-using-react/assets/112662397/725cc498-ac3c-4340-a614-81bd9462fcaa)
+
+
+<p>Portfolio</p>
+
+![image](https://github.com/MonteonFrank/portfolio-using-react/assets/112662397/b6f8efb7-d681-4f21-a289-9b0c08e4354e)
+
+
+
+ 
 
