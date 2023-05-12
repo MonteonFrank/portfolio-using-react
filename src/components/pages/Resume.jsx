@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import resume from '../pages/resume/CVEnglish.pdf'
 
 const styles = {
 
@@ -17,7 +18,10 @@ const styles = {
   },
 };
 
+
 export default function Resume() {
+
+
   return (
     <div>
       <div style={styles.content}>
@@ -46,6 +50,11 @@ export default function Resume() {
               <li>Git</li>
               <li>MERN</li>
             </ul>
+            <a href = {resume} download = "FranksResume">
+            <button className="btn btn-primary" type="button">
+                Download Resume
+            </button>
+            </a>
           </div>
         </div>
       </div>
